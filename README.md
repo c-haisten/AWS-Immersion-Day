@@ -1,3 +1,3 @@
 # Immersion Day
 
-!(panw_aws.png)
+![Terragoat](panw_aws.png)
