@@ -6,7 +6,7 @@ Welcome to the AWS Immersion Day hands on lab. In this lab you will learn founda
 
 Paragraph of text introducing this section.
 
-### Subsection 1.1: Logging into AWS (OTP w/ EE)
+### 1.1: Logging into AWS (OTP w/ EE)
 
 Paragraph of text explaining this subsection.
 
@@ -14,7 +14,7 @@ Paragraph of text explaining this subsection.
 2. Numbered list item 2
 3. Numbered list item 3
 
-### Subsection 1.2: Logging into Prisma Cloud
+### 1.2: Logging into Prisma Cloud
 
 Paragraph of text explaining this subsection.
 
@@ -22,7 +22,7 @@ Paragraph of text explaining this subsection.
 2. Numbered list item 2
 3. Numbered list item 3
 
-### Subsection 1.3: Onboarding AWS Account into Prisma Cloud
+### 1.3: Onboarding AWS Account into Prisma Cloud
 
 Paragraph of text explaining this subsection.
 
@@ -34,7 +34,7 @@ Paragraph of text explaining this subsection.
 
 Paragraph of text introducing this section.
 
-### Subsection 2.1: Kicking off the build
+### 2.1: Kicking off the build
 
 Paragraph of text explaining this subsection.
 
@@ -42,7 +42,7 @@ Paragraph of text explaining this subsection.
 2. Numbered list item 2
 3. Numbered list item 3
 
-### Subsection 2.2: Identifying Errors and Vulnerabilities in IaC (Infrastructure as Code)
+### 2.2: Identifying Errors and Vulnerabilities in IaC (Infrastructure as Code)
 
 Paragraph of text explaining this subsection.
 
@@ -50,7 +50,7 @@ Paragraph of text explaining this subsection.
 2. Numbered list item 2
 3. Numbered list item 3
 
-### Subsection 2.3: Identifying Vulnerabilities in Application Image from CodeBuild Output
+### 2.3: Identifying Vulnerabilities in Application Image from CodeBuild Output
 
 In this section you will navigate to the output link from the twistlock scan within AWS CodeBuild. 
 
@@ -69,7 +69,7 @@ In this section you will navigate to the output link from the twistlock scan wit
 
 Paragraph of text introducing this section.
 
-### Subsection 3.1: Create View of AWS Assets
+### 3.1: Create View of AWS Assets
 
 Paragraph of text explaining this subsection.
 
@@ -77,7 +77,7 @@ Paragraph of text explaining this subsection.
 2. Numbered list item 2
 3. Numbered list item 3
 
-### Subsection 3.2: Identify Compliance Violations
+### 3.2: Identify Compliance Violations
 
 Paragraph of text explaining this subsection.
 
@@ -85,7 +85,7 @@ Paragraph of text explaining this subsection.
 2. Numbered list item 2
 3. Numbered list item 3
 
-### Subsection 3.3: Reporting
+### 3.3: Reporting
 
 Paragraph of text explaining this subsection.
 
