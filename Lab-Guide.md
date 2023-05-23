@@ -35,7 +35,7 @@ In this section you will start the CodeBuild project in AWS.
 2. Click on the CodeBuild project Name. Note that your project name will be unique and differ from the screenshot:
 ![Alt text for image](/screenshots/232.png "Optional title")
 3. Once you are in the CodeBuild project, click **Start build**:
-[Alt text for image](/screenshots/213.png "Optional title")
+![Alt text for image](/screenshots/213.png "Optional title")
 
 ### Subsection 2.2: Identifying Errors and Vulnerabilities in IaC (Infrastructure as Code)
 
