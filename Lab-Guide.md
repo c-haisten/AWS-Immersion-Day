@@ -151,7 +151,7 @@ RDP connections open to the world are insecure as they can allow attackers to di
 6. Click **Save Rules**. The rule should now reflect RDP access using only your current public IP address.
 ![Alt text for image](/screenshots/426.png "Optional title")
 
-### Subsection 4.3: Discover and Resolve RDP Connections Open to the World
+### Subsection 4.3: Discover and Resolve RDS Databases Open to the World
 
 RDS databases open to the world are insecure as they can allow attackers to directly interface with your database resources. Through this task, we will locate these open RDS databases within our AWS environment using Prisma Cloud.
 
